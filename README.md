@@ -1,6 +1,6 @@
 # Wheel Game
 This project is a GUI based game inspired by roulette which is written in Java.<br>
-This project is made from the template developed by the Further Programming Teaching Team March - June 2019. <br><br>
+This project is made from the template developed by the Further Programming Teaching Team March - June 2019 at RMIT. <br><br>
 
 In this project, functions as follow are implemented,
   - Unlimited number of player
